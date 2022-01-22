@@ -4,20 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>BOLSA DE VALORES</h1>
+      <iframe
+      src="https://app.powerbi.com/view?r=eyJrIjoiNWJmNDYzNDgtMmZhYy00MzFkLTg3YjctYTVjYzI0NDRhOWU2IiwidCI6ImUzOWEwZDFhLWJhOTUtNDMzMi04N2M5LTk5Mjc4YzNiZDE4NyJ9" 
+      title="Bi-web"
+      height="600 " width="1000"
+      ></iframe>
     </div>
   );
 }
