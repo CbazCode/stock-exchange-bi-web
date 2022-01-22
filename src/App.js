@@ -9,7 +9,7 @@ function App() {
       <div className="container-url">
         <iframe
         className="url"
-        src="https://app.powerbi.com/view?r=eyJrIjoiNWJmNDYzNDgtMmZhYy00MzFkLTg3YjctYTVjYzI0NDRhOWU2IiwidCI6ImUzOWEwZDFhLWJhOTUtNDMzMi04N2M5LTk5Mjc4YzNiZDE4NyJ9" 
+        src="https://app.powerbi.com/view?r=eyJrIjoiNTIyNjZlMDQtOWY1Mi00MGZjLTgwMzYtYTA5MmFkN2QyOTA4IiwidCI6ImUzOWEwZDFhLWJhOTUtNDMzMi04N2M5LTk5Mjc4YzNiZDE4NyJ9" 
         title="Bi-web"
         height="580" width="900"
         />
